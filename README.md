@@ -139,5 +139,3 @@ Waveshare
 DFRobot
 
 ![](./pic/i2c-dfrobot.png)
-
->>>>>>> 03a970f (“add”)
