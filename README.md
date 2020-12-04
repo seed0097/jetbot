@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # jetbot
-=======
+
 # JetBot (CAVEDU Version)
 
 | 作者 |  JUIN TING KUO |
@@ -8,11 +8,11 @@
 | 所屬單位  | CAVEDU 教育團隊 |
 | 開發日期  | 10909 |
 | 文章連結  | https://blog.cavedu.com/2020/09/29/jetbot01/|
-            | https://blog.cavedu.com/2020/10/16/jetbot02/|
-            | https://blog.cavedu.com/2020/10/26/jetbot03_1/ |
-            | https://blog.cavedu.com/2020/12/01/jetbot03_2/ |
-            | https://blog.cavedu.com/2020/12/01/jetbot04_1/ |
-            | https://blog.cavedu.com/2020/12/01/jetbot04_2/ |
+|           | https://blog.cavedu.com/2020/10/16/jetbot02/|
+|           | https://blog.cavedu.com/2020/10/26/jetbot03_1/ |
+|           | https://blog.cavedu.com/2020/12/01/jetbot03_2/ |
+|           | https://blog.cavedu.com/2020/12/01/jetbot04_1/ |
+|           | https://blog.cavedu.com/2020/12/01/jetbot04_2/ |
 ___
 
 ## 環境設定
